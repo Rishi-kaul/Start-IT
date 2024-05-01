@@ -14,7 +14,7 @@ To use this prank malware generator, you'll need:
 ### Usage
 1. Clone this repository to your local machine using Git.
    ```
-   git clone https://github.com/yourusername/prank-malware-generator.git
+   https://github.com/Rishi-kaul/Start-IT.git
    ```
 2. Navigate into the cloned directory.
    ```
